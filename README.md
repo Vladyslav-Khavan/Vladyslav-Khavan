@@ -1,5 +1,38 @@
 # 💫 About Me:
-🛠️ I'm currently working on<br><br>Developing scalable backend solutions using Java and Spring Boot.<br>Optimizing database performance for high-load systems.<br>🤝 I'm looking to collaborate on<br><br>Open-source Java projects, especially in fintech or backend optimization.<br>Projects involving API design and implementation.<br>🛠️ I'm looking for help with<br><br>Advanced topics in microservices architecture.<br>Learning more about cloud deployments (AWS, Google Cloud).<br>🌱 I'm currently learning<br><br>Kubernetes for container orchestration.<br>Advanced Spring Security for multi-tenant applications.<br>💬 Ask me about<br><br>Java backend development.<br>Performance optimization in databases and APIs.<br>⚡Fun fact<br><br>I'm passionate about chess and love applying<br> strategic thinking from the game to solving programming challenges!
+
+### 🛠️ I'm currently working on:
+- Developing scalable backend solutions using **Java** and **Spring Boot**.  
+- Optimizing database performance for high-load systems.
+
+---
+
+### 🤝 I'm looking to collaborate on:
+- Open-source **Java projects**, especially in **fintech** or backend optimization.  
+- Projects involving **API design and implementation**.
+
+---
+
+### 🛠️ I'm looking for help with:
+- Advanced topics in **microservices architecture**.  
+- Learning more about **cloud deployments** (AWS, Google Cloud).
+
+---
+
+### 🌱 I'm currently learning:
+- **Kubernetes** for container orchestration.  
+- Advanced **Spring Security** for multi-tenant applications.
+
+---
+
+### 💬 Ask me about:
+- **Java backend development**.  
+- Performance optimization in **databases** and **APIs**.
+
+---
+
+### ⚡ Fun fact:
+- I'm passionate about **chess** and love applying strategic thinking from the game to solving complex programming challenges!
+
 
 
 ## 🌐 Socials:
